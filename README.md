@@ -1,5 +1,5 @@
 # JavaScript-Clone-APP
-- CodingNepal Channel Clone APPS
+-- CodingNepal Channel Clone APPS
 - Currency Converter
 - Todo APP
 - Memory APP
